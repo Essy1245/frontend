@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Brian Lee
+N:Lee;Brian;;;
+X-PHONETIC-FIRST-NAME:Seongchan
+EMAIL;TYPE=INTERNET;TYPE=WORK:s402102@s.cusd80.com
+TEL;TYPE=CELL:+1 480-886-5323
+item1.ADR:;;;;AZ;;US;AZ\nUS
+item1.X-ABLabel:
+item2.ORG:Hamilton High School;Senior
+item2.X-ABLabel:
+item3.URL:https\://essy1245.github.io/me
+item3.X-ABLabel:Social
+NOTE:Hii I'm Brian\nI do 3d printing/modeling\, VR\, coding\, and video edi
+ ting.\nI may or may not be an engineer in the future.\nI play beat saber (
+ a lot\, almost like addiction)\ni suck at english
+PHOTO:https://lh3.googleusercontent.com/contacts/AOq4Ldb9l9WBJ95WYqCoB5i4PH
+ 6H500f6NnjWG23ZBKRxghVBFy7A-I8
+END:VCARD
