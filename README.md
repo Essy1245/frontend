@@ -20,5 +20,6 @@ https://brian.64bit.kr/win/
 Social Link Subpages: 
 
 Linkedin: https://essy1245.github.io/frontend/sub/linkedin
+
 https://brian.64bit.kr/sub/linkedin
 
