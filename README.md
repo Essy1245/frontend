@@ -1,6 +1,6 @@
 Currently active services
 NEW HUB
-https://brian.64bit.kr/hub
+https://brian.64bit.kr/add
 
 e bubble wrap: 
 root/pop
